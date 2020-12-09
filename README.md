@@ -1,2 +1,2 @@
-# python-screenscrape
-Web screen scraping with Python
+# python-screenscrap
+Web screen scraping with Python and Selenium
